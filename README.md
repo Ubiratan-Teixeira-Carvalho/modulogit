@@ -1,2 +1,2 @@
-Meu primeiro sistem no Git (alterado e atualizado!)
+Meu primeiro sistem no Git 
 
